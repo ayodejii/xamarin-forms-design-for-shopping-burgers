@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "2GiShU686aGGp7ljJvS9W/yaPXWOEx9mw0MYYTJLU7gdQM/uAgk+30/VEJ/fD2Td8DAmxJQTEWF+8OfDeenB+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Isaac\\source\\repos\\BurgerSpot\\BurgerSpot\\BurgerSpot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Isaac\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\Isaac\\.nuget\\packages\\xamarin.forms\\4.5.0.657\\xamarin.forms.4.5.0.657.nupkg.sha512"
+  ],
+  "logs": []
+}
